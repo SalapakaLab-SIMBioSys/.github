@@ -11,6 +11,7 @@ SIMBioSys is a tool developed by the Salapaka Lab to achive the following goals:
 - Biochemistry
 - Mathematics
 - Statistics
+- Control Sytems & Modelling
 
 
 
