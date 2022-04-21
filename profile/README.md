@@ -1,6 +1,6 @@
 
 <p float="center">
-  <img src="Logo/SIMBioSys_Title.png" title = "SalapakaLab - SIMBioSys" width = "1000"  />
+  <img src="https://raw.githubusercontent.com/SalapakaLab-SIMBioSys/.github/main/profile/Logo/SIMBioSys_Title.png" title = "SalapakaLab - SIMBioSys" width = "1000"  />
 </p>
 
 
