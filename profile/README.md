@@ -1,4 +1,7 @@
-# SalapakaLab-SIMBioSys
+[logo]: https://github.com/SalapakaLab-SIMBioSys/.github/tree/main/Logo/SIMBioSys.png "SalapakaLab - SIMBioSys"
+
+# SalapakaLab-SIMBioSys 
+![alt text][logo]
 
 ## Vision
 SIMBioSys is a tool developed by the Salapaka Lab to achive the following goals:  
