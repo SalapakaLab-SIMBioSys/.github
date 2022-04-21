@@ -1,5 +1,11 @@
-<img src= "Logo/SIMBioSys_Title.png" alt="SalapakaLab - SIMBioSys" align="center" width = "1000"/>
 
+<p float="center">
+  <img src="Logo/SIMBioSys_Title.png" title = "SalapakaLab - SIMBioSys" width = "1000"  />
+</p>
+
+
+<!-- <img src= "https://github.com/SalapakaLab-SIMBioSys/.github/profile/Logo/SIMBioSys_Title.png" alt="SalapakaLab - SIMBioSys" align="center" width = "1000"/>
+-->
 <!-- # SalapakaLab-SIMBioSys <br><img src="../Logo/SIMBioSys.png" alt="SalapakaLab - SIMBioSys" align="right" width = "150"/>  
 -->
 
