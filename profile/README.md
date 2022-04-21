@@ -1,4 +1,4 @@
-<img src="../Logo/SIMBioSys_Title.png" alt="SalapakaLab - SIMBioSys" align="center" width = "1000"/>
+<img src="Logo/SIMBioSys_Title.png" alt="SalapakaLab - SIMBioSys" align="center" width = "1000"/>
 
 <!-- # SalapakaLab-SIMBioSys <br><img src="../Logo/SIMBioSys.png" alt="SalapakaLab - SIMBioSys" align="right" width = "150"/>  
 -->
