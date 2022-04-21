@@ -1,4 +1,6 @@
-# SalapakaLab-SIMBioSys
+
+# SalapakaLab-SIMBioSys 
+![alt text](../Logo/SIMBioSys.png)
 
 ## Vision
 SIMBioSys is a tool developed by the Salapaka Lab to achive the following goals:  
